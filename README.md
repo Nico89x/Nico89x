@@ -37,9 +37,9 @@ Ein Node.js-Adapter ergänzt synthetische Support-Tickets um öffentliche GitHub
 
 **Stack:** JavaScript · Node.js · GitHub REST API · n8n-Workflow-Export
 
-### [Lead-to-Offer](https://nico89x.github.io/nico-joschke-automation-portfolio/#lead-to-offer)
+### [Lead-to-Offer](https://github.com/Nico89x/nico-joschke-automation-portfolio/tree/main/projects/lead-to-offer)
 
-Drei gekoppelte Workflows zeigen den Weg vom Lead-Eingang über Validierung, Scoring und Dublettenprüfung bis zum CRM und internen Angebotsentwurf. Die Fallstudie enthält bereinigte n8n-Exporte und getrennte Fehlerpfade.
+Drei zusammengehörige Workflows zeigen den Weg vom Lead-Eingang über Validierung, Scoring und Dublettenprüfung bis zum CRM und internen Angebotsentwurf. Die Fallstudie enthält bereinigte n8n-Exporte und getrennte Fehlerpfade.
 
 **Stack:** n8n · JavaScript · Webhooks · REST APIs · Notion CRM
 
