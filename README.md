@@ -2,7 +2,7 @@
 
 **Webanwendungen · Softwaretesting · API-Integration · Workflow-Automatisierung**
 
-Ich entwickle Webanwendungen und automatisierte Datenflüsse mit JavaScript/TypeScript, React, Node.js und n8n. In meinen Projekten liegt der Fokus auf klaren Schnittstellen, verlässlicher Datenverarbeitung und kontrollierter Fehlerbehandlung. Automatisierte Tests und technische Dokumentation machen die Umsetzung überprüfbar.
+Ich entwickle Webanwendungen und automatisierte Datenflüsse mit JavaScript/TypeScript, React, Node.js und n8n. In meinen Projekten liegt der Fokus auf klaren Schnittstellen, verlässlicher Datenverarbeitung und kontrollierter Fehlerbehandlung. Automatisierte Tests und technische Dokumentation machen die Umsetzung überprüfbar. Ergänzend verfüge ich über Kenntnisse im Datenschutz.
 
 [Portfolio ansehen](https://nico89x.github.io/nico-joschke-automation-portfolio/) · [Web-Demo ausprobieren](https://nico89x.github.io/ai-grocery-store-automation/#/simulation) · [Kurzprofil](https://nico89x.github.io/nico-joschke-automation-portfolio/kurzprofil.html)
 
