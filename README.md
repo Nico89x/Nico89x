@@ -1,8 +1,8 @@
-# Hi, ich bin Nico
+# Nico Joschke
 
-**Vom Malerhandwerk zu Webanwendungen, Softwaretests und Schnittstellen.** Ich suche den Einstieg als Junior/Associate – remote innerhalb Deutschlands, in Vollzeit oder Teilzeit.
+**Webanwendungen · Softwaretesting · API-Integration · Workflow-Automatisierung**
 
-Meine technische Praxis stammt aus eigenen Projekten mit JavaScript/TypeScript, React, Node.js, APIs und n8n. Ich beschäftige mich besonders damit, Daten zuverlässig zu verarbeiten und Fehler nachvollziehbar zu behandeln.
+Ich entwickle Webanwendungen und automatisierte Datenflüsse mit JavaScript/TypeScript, React, Node.js und n8n. In meinen Projekten liegt der Fokus auf klaren Schnittstellen, verlässlicher Datenverarbeitung und kontrollierter Fehlerbehandlung. Automatisierte Tests und technische Dokumentation machen die Umsetzung überprüfbar.
 
 [Portfolio ansehen](https://nico89x.github.io/nico-joschke-automation-portfolio/) · [Web-Demo ausprobieren](https://nico89x.github.io/ai-grocery-store-automation/#/simulation) · [Kurzprofil](https://nico89x.github.io/nico-joschke-automation-portfolio/kurzprofil.html)
 
