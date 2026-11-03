@@ -6,10 +6,11 @@ Ich entwickle Webanwendungen und automatisierte Datenflüsse mit JavaScript/Type
 
 [Portfolio ansehen](https://nico89x.github.io/nico-joschke-automation-portfolio/) · [Web-Demo ausprobieren](https://nico89x.github.io/ai-grocery-store-automation/#/simulation) · [Kurzprofil](https://nico89x.github.io/nico-joschke-automation-portfolio/kurzprofil.html)
 
-## Drei Arbeitsproben
+## Ausgewählte Arbeitsproben
 
 | Projekt                                                                                                                             | Problem und Umsetzung                                                                                                                                                                                         | Nachweise                                                                                                                                                                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[CyberGuard AI](https://github.com/Nico89x/CyberGuard-AI)** | Lokaler Python-/FastAPI-Prototyp mit authentifiziertem Dashboard, validierten Daten, regelbasierten Befunden und nachvollziehbaren Belegreferenzen. | [Synthetische Demo](https://github.com/Nico89x/CyberGuard-AI/blob/master/docs/DEMO.md), [Tests](https://github.com/Nico89x/CyberGuard-AI/tree/master/tests), [erfolgreicher Windows-CI-Lauf](https://github.com/Nico89x/CyberGuard-AI/actions/runs/41647379655). |
 | **[Grocery Store](https://github.com/Nico89x/ai-grocery-store-automation)**                                                         | React-/TypeScript-Oberfläche mit Warenkorb, Bestellqueue, Lagerbuchung und Retry. Ein ergänzender lokaler Node.js-/SQLite-Server speichert Bestellungen und schützt wiederholte Anfragen vor Doppelbuchungen. | [Live-Simulation](https://nico89x.github.io/ai-grocery-store-automation/#/simulation), [Tests](https://github.com/Nico89x/ai-grocery-store-automation/tree/main/src/domain), [Backend und Start](https://github.com/Nico89x/ai-grocery-store-automation/tree/main/server). |
 | **[ReleaseWatch](https://github.com/Nico89x/nico-joschke-automation-portfolio/tree/main/projects/release-support-triage)**          | Synthetische Support-Tickets mit öffentlichen GitHub-Release-Metadaten verbinden. Ungültige Antworten, Timeouts, Rate-Limits und doppelte Anfragen behandeln.                                                 | Ausführbarer Node.js-Adapter, Tests und eine kurze Demo-Aufnahme. Keine automatischen Updates oder Nachrichten.                                                                                                                                                            |
 | **[Operations Hub](https://github.com/Nico89x/nico-joschke-automation-portfolio/tree/main/projects/multi-agent-ai-operations-hub)** | Anfragen validieren, Dubletten erkennen und technische Entwürfe mit Audit-Log und menschlicher Freigabe vorbereiten.                                                                                          | n8n-Exporte, PostgreSQL/pgvector-Schema, Docker Compose, Tests und lokale Startanleitung.                                                                                                                                                                                  |
@@ -18,6 +19,7 @@ Weitere Beispiele: [Lead-to-Offer](https://github.com/Nico89x/nico-joschke-autom
 
 ## Belegte Projektpraxis
 
+- **Python und APIs:** FastAPI, pytest und HTTPX im lokalen CyberGuard-Prototyp; Session-/CSRF-Schutz, Eingabevalidierung und Fehlerfalltests.
 - **Webanwendungen:** React-Komponenten, TypeScript-Datenmodelle und Zustandsverarbeitung.
 - **Schnittstellen:** HTTP/REST, Webhooks, JSON-Validierung, begrenzte Wiederholungen und verständliche Fehlerzustände.
 - **Daten:** SQL/PostgreSQL sowie SQLite-Transaktionen und persistente Anfrageschlüssel.
@@ -34,4 +36,4 @@ Die Projekte sind Portfolio- und Testsysteme. Sie belegen keine kommerzielle IT-
 
 Konzept, Anforderungen und die Bewertung der Ergebnisse gehören zu meiner Projektarbeit. Implementierung, Dokumentation und technische Prüfungen entstanden mit KI-Unterstützung. Welche Teile ich selbst erklären und verändern kann, zeige ich gern in einer konkreten Arbeitsprobe.
 
-**Standort:** Karlsruhe, Deutschland · **Verfügbarkeit:** Vollzeit oder Teilzeit · **Arbeitsort:** vollständig remote innerhalb Deutschlands
+**Verfügbarkeit:** Vollzeit oder Teilzeit · **Arbeitsort:** vollständig remote innerhalb Deutschlands
